@@ -92,7 +92,7 @@ const About = () => (
               A family practice with a <span className="text-accent">gentle</span> touch
             </h2>
             <p className="font-body text-muted-foreground mt-6 leading-relaxed">
-              Located at No 6 November Street, Chief Palace Estate, Karu, Abuja, Rubi Smile Dental Clinic was founded with a simple mission: to make quality dental care accessible, comfortable, and affordable for everyone.
+              Located at No 6 November Street, near Chief Palace Layout, Karu, Abuja, Rubi Smile Dental Clinic was founded with a simple mission: to make quality dental care accessible, comfortable, and affordable for everyone.
             </p>
             <p className="font-body text-muted-foreground mt-4 leading-relaxed">
               We serve families, young professionals, and NHIS patients with comprehensive dental care. Our clinic combines modern equipment with a warm, patient-first approach that puts your comfort above all else.
