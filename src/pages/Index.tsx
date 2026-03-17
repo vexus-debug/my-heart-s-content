@@ -220,7 +220,7 @@ const Index = () => (
                 <img src={waitingArea2} alt="Spacious clinic interior" className="w-full aspect-[4/3] object-cover" />
               </div>
               <motion.div
-                className="absolute -bottom-6 right-6 sm:-bottom-8 sm:right-8 w-[50%] rounded-2xl overflow-hidden shadow-elevated border-4 border-background"
+                className="absolute -bottom-12 right-6 sm:-bottom-16 sm:right-8 w-[45%] rounded-2xl overflow-hidden shadow-elevated border-4 border-background"
                 initial={{ opacity: 0, scale: 0.9 }}
                 whileInView={{ opacity: 1, scale: 1 }}
                 viewport={{ once: true }}
