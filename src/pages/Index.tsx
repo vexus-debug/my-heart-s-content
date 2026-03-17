@@ -4,13 +4,13 @@ import SectionReveal from "@/components/SectionReveal";
 import heroImage from "@/assets/hero-clinic.jpg";
 
 const services = [
-  { icon: Shield, title: "Preventive Dentistry", desc: "Cleanings, checkups, fluoride treatments & oral hygiene education.", color: "text-teal" },
+  { icon: Shield, title: "Preventive Dentistry", desc: "Cleanings, checkups, fluoride treatments & oral hygiene education.", color: "text-accent" },
   { icon: Heart, title: "General Dentistry", desc: "Fillings, extractions, gum treatment & infection management.", color: "text-primary" },
-  { icon: Zap, title: "Restorative Dentistry", desc: "Root canals, crowns, bridges, dentures & dental implants.", color: "text-teal" },
+  { icon: Zap, title: "Restorative Dentistry", desc: "Root canals, crowns, bridges, dentures & dental implants.", color: "text-accent" },
   { icon: Star, title: "Cosmetic Dentistry", desc: "Teeth whitening, veneers, smile design & gap closure.", color: "text-primary" },
-  { icon: CheckCircle, title: "Orthodontics", desc: "Braces, clear aligners & bite correction for all ages.", color: "text-teal" },
+  { icon: CheckCircle, title: "Orthodontics", desc: "Braces, clear aligners & bite correction for all ages.", color: "text-accent" },
   { icon: Clock, title: "Emergency Care", desc: "Surgical extractions, pain relief, abscess drainage & trauma.", color: "text-primary" },
-  { icon: Heart, title: "Pediatric Dentistry", desc: "Child-friendly care, space maintainers & early assessment.", color: "text-teal" },
+  { icon: Heart, title: "Pediatric Dentistry", desc: "Child-friendly care, space maintainers & early assessment.", color: "text-accent" },
 ];
 
 const stats = [
