@@ -51,7 +51,7 @@ const steps = [
   { num: "04", title: "Smile Bright", desc: "Walk out with a healthier, more confident smile." },
 ];
 
-const testimonials = [
+const defaultTestimonials = [
   { name: "Adaeze O.", text: "Rubi Smile made my first dental visit so comfortable. The team is incredibly patient and professional. I actually look forward to my checkups now!", rating: 5 },
   { name: "Ibrahim M.", text: "I had a root canal here and was amazed at how painless it was. The doctor explained every step. Highly recommend to anyone nervous about dental work.", rating: 5 },
   { name: "Blessing A.", text: "My kids love going to the dentist now — that says everything! The pediatric care is top-notch and the clinic is so clean and welcoming.", rating: 5 },
