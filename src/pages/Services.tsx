@@ -151,6 +151,11 @@ const whyChooseUs = [
 ];
 
 const Services = () => {
+  const { content: c } = useSiteContent("services");
+  const WHATSAPP_NUMBER = (c.whatsapp as string) || WHATSAPP_NUMBER_DEFAULT;
+  const CALL_NUMBER = (c.phone as string) || CALL_NUMBER_DEFAULT;
+  const serviceCategories = (c.categories as any[]) || defaultServiceCategories;
+
   const [selectedServices, setSelectedServices] = useState<string[]>([]);
   const [expandedCard, setExpandedCard] = useState<number | null>(null);
   const [showBooking, setShowBooking] = useState(false);
