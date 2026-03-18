@@ -537,7 +537,7 @@ const Index = () => (
               {[
                 { icon: MapPin, label: "Address", value: "No 6 November Street, near Chief Palace Layout, Karu, Abuja", color: "text-primary", bg: "bg-primary/10" },
                 { icon: Clock, label: "Working Hours", value: "Mon – Fri: 9:00 AM – 5:30 PM", sub: "Sat: 9:00 AM – 3:30 PM | Sun: Closed", color: "text-accent", bg: "bg-accent/10" },
-                { icon: Phone, label: "Phone", value: "+2349024403837", color: "text-primary", bg: "bg-primary/10" },
+                { icon: Phone, label: "Phone", value: "+2349024403837", sub: "07043298987", color: "text-primary", bg: "bg-primary/10" },
               ].map((item) => (
                 <div key={item.label} className="flex items-start gap-4">
                   <div className={`flex h-11 w-11 shrink-0 items-center justify-center rounded-xl ${item.bg}`}>

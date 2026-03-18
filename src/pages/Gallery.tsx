@@ -16,8 +16,7 @@ import exterior from "@/assets/gallery/exterior.jpg";
 import waitingArea from "@/assets/gallery/waiting-lounge.jpg";
 import waitingArea2 from "@/assets/gallery/reception-lounge.jpg";
 import operatory from "@/assets/gallery/operatory.jpg";
-import frontDesk from "@/assets/gallery/reception-desk.jpg";
-import entranceSign from "@/assets/gallery/entrance-sign.jpg";
+import entranceSign from "@/assets/gallery/entrance-sign-new.jpg";
 import clinicExterior2 from "@/assets/gallery/clinic-exterior-2.jpg";
 
 const images = [
