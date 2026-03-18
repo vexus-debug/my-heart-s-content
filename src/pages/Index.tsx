@@ -493,6 +493,9 @@ const Index = () => {
       </div>
     </section>
 
+    {/* ═══════════════════ LEAVE A REVIEW ═══════════════════ */}
+    <ReviewFormSection />
+
     {/* ═══════════════════ FAQ ═══════════════════ */}
     <section className="bg-background py-24 sm:py-32 relative">
       <div className="absolute inset-0 section-diagonal opacity-40 pointer-events-none" />
